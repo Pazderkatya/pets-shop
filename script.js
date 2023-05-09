@@ -84,6 +84,8 @@ const items = [{
     },
 ];
 
+
+
 const container = document.querySelector('#shop-items');
 
 function arrCards(arr) {
